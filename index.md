@@ -22,8 +22,8 @@ Here are some of the projects I've worked on!
 ### Projects
 1. **ERSP Split-LAMP Primer Design Site:** [Github](https://github.com/vsantiago-ucsd/ESRP_Split-LAMP_Primer_Design_Tool)
 2. **Runway Avenue Launchpad:** [Github](https://github.com/CSES-Dev/runway-ave)
-3. **Autumn Moon Festival Site:** [Github](https://github.com/alanttran/autumnmoon) | [View Project](https://alanttran.github.io/autumnmoon/)
-4. **Solanum:** [Github](https://github.com/acmucsd-projects/wi25-hack-team-2) | [View Project](https://alanttran.github.io/autumnmoon/)
+3. **Autumn Moon Festival Site:** [Github](https://github.com/alanttran/autumnmoon) - [View Project](https://alanttran.github.io/autumnmoon/)
+4. **Solanum:** [Github](https://github.com/acmucsd-projects/wi25-hack-team-2) - [View Project](https://alanttran.github.io/autumnmoon/)
 
 Outside of coding, I enjoy going to the beach, catching a concert, playing volleyball, 
 or gaming with friends. I also love staying engaged with my community thorugh 
